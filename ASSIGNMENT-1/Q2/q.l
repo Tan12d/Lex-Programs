@@ -13,7 +13,7 @@ int j=0;
 
 int main()
 {
-	printf("\nEnter the string: ");	
+	printf("\nEnter a word: ");	
 	yylex();
 	return 1;
 }
